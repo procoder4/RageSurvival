@@ -1,4 +1,4 @@
-# RageZombies
+# RageSurvival
 Zombie Survival Gamemode for [RageMp](https://rage.mp/)
 
 ### Installation!
