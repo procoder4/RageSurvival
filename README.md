@@ -13,7 +13,7 @@ Zombie Survival Gamemode for [RageMp](https://rage.mp/)
  
 ### About
 
-RageZombies was heavily insipred by some of my Zombie Projects on MTA, different Survival/Zombie Games.
+RageSurvival was heavily insipred by some of my Zombie Projects on MTA, different Survival/Zombie Games.
 Most of the Work was strongly influenced by the small community that gathered around the project, therefor special thanks to:
 
 -  Pluz
