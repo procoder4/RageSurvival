@@ -22,6 +22,7 @@ Most of the Work was strongly influenced by the small community that gathered ar
 -   Chmuzy
 -   CarloGambino
 -   feris
+-   BeSmir
 
 without their work i couldn´t have finished some parts
 
